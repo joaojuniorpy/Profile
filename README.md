@@ -15,9 +15,9 @@
 - ⚡ Fun fact **I am part of the Ubuntu to Brazilian Portuguese Translators Team😜**
 
 <p align="center">
-<img src="https://www.flaticon.com/svg/vstatic/svg/888/888897.svg?token=exp=1610589467~hmac=e1b4b408ae2b24003dfa846f8d0a493a" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/888/888897.svg?token=exp=1610589467~hmac=e1b4b408ae2b24003dfa846f8d0a493a" alt="css3"  width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/joaojuniorpy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="80" width="80" /></a>
-<a href="https://linkedin.com/in/joaojuniorpy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.facebook.com/profile.php?id=100011496169980" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/johnc_junior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://twitter.com/joaojuniorpy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/joaojuniorpy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011496169980" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="30" width="30" /></a>
+<a href="https://instagram.com/johnc_junior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="30" width="30" /></a>
 </p>
