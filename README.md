@@ -20,8 +20,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaojuniorpy&show_icons=true" alt="maykbrito"/> 
-
+</p>
 <p align="center">
 <a href="https://twitter.com/joaojuniorpy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/joaojuniorpy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
