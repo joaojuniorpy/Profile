@@ -1,8 +1,8 @@
-<h1 align="center">Hi dear 👋, I'm João Júnior</h1>
+<h1 align="center">Hi dear 👋, I'm João Júnior :D</h1>
 <h3 align="center">A Freelancer Web Developer focused on reaching the Tech Community with his projects</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaojuniorpy" alt="joaojuniorpy" /> </p>
 
-- - 🌱 I’m currently learning [DevMedia](https://www.devmedia.com.br/)
+- 🌱 I’m currently learning [DevMedia](https://www.devmedia.com.br/)
 
 - 👨‍💻 All of my projects are available at [ieqexercitodedeus.com](https://ieqexercitodedeus.com/)
 
