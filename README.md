@@ -16,8 +16,8 @@
 
 <p align="center">
 <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610589467~hmac=0208d2e39edbadf4d28be831c95fcb2f" alt="css3"  width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1610590223~hmac=dc9cd4ea3ce3b8adf51ca740fecdc666" alt="html5"  width="50" height="50"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1610590322~hmac=2afa293180283e00a4b0d66a08fc684a" alt="javascript" width="50" height="50"/>
 </p>
 
 <p align="center">
