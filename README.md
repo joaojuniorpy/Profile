@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I am part of the Ubuntu to Brazilian Portuguese Translators Team😜**
 
 <p align="center">
-<img src="https://www.flaticon.com/svg/vstatic/svg/732/732028.svg?token=exp=1610589467~hmac=6ea29d66e2999abee552f5b5d86d6435" alt="css3"  width="20" height="20"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/888/888897.svg?token=exp=1610589467~hmac=e1b4b408ae2b24003dfa846f8d0a493a" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
