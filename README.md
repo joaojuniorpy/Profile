@@ -1,12 +1,12 @@
-<h1 align="center">Hi dear 👋, I'm João Júnior :D</h1>
+<h1 align="center">Hi dear 👋, I'm João Júnior</h1>
 <h3 align="center">A Freelancer Web Developer focused on reaching the Tech Community with his projects</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaojuniorpy" alt="joaojuniorpy" /> </p>
 
-- 🔭 I’m currently working on [Tempo Assist]()
+- - 🌱 I’m currently learning [DevMedia](https://www.devmedia.com.br/)
 
 - 👨‍💻 All of my projects are available at [ieqexercitodedeus.com](https://ieqexercitodedeus.com/)
 
-- ▶️ I regulary post videos on [](https://www.instagram.com/johnc_junior/)
+- ▶️ I regulary post videos on [Instagram](https://www.instagram.com/johnc_junior/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Excel**
 
@@ -30,19 +30,3 @@
 <a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
